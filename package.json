@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Practica 1 de Unidad 3... API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsvaldoAc777/API.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Osvaldo Alvarez Camacho",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OsvaldoAc777/API/issues"
+  },
+  "homepage": "https://github.com/OsvaldoAc777/API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
